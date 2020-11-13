@@ -207,6 +207,25 @@ label {
 	h1{
 		font-family: 'Merriweather', sans-serif;
 		text-align: center;
+		color: #505050;
+		font-size: 1.76em;
+		line-height: 1.182em;
+	}
+	body{
+		font-family: 'Merriweather', sans-serif;
+		background-color: #E8E8E8;
+		text-align: center;
+		color: #909090;
+		font-size: 1.375em;
+	}
+	p{
+		font-size: 1.375em;
+		color: #585858;
+		font-family: 'Oswald', sans-serif;
+		padding: 1.182em;
+		line-height: 1.182em;
+	}
+		
 		
 
 /* ===== STATE STYLES ======= */
