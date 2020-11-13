@@ -240,7 +240,12 @@ label {
 		width: 1em;
 		height: .75em;
 	}
-		
-		
+	#input-submit {
+		width: 150px;
+		height: 55px;
+		padding: 1.182em;
+		margin: auto;
+	}
+}		
 
 /* ===== STATE STYLES ======= */
