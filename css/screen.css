@@ -205,7 +205,8 @@ label {
 /* ===== LAYOUT STYLES ====== */
 @media only screen and (min-width: 600px) {
 	h1{
-		font-family: 'Merriweather', sans-serif
+		font-family: 'Merriweather', sans-serif;
+		text-align: center;
 		
 
 /* ===== STATE STYLES ======= */
