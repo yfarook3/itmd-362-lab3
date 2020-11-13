@@ -231,6 +231,15 @@ label {
 		font-size: 1.375em;
 		margin: auto;
 	}
+	#input-age-verification {
+		margin: auto;
+		line-height: 1.182em;
+		font-size: 1.375em;
+	}
+	#age-verification {
+		width: 2em;
+		height: .75em;
+	}
 		
 		
 
